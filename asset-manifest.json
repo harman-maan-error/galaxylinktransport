@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/galaxylinktransport/static/css/main.985055f8.css",
+    "main.js": "/galaxylinktransport/static/js/main.ccc2693e.js",
+    "static/js/453.695fbcd5.chunk.js": "/galaxylinktransport/static/js/453.695fbcd5.chunk.js",
+    "index.html": "/galaxylinktransport/index.html",
+    "main.985055f8.css.map": "/galaxylinktransport/static/css/main.985055f8.css.map",
+    "main.ccc2693e.js.map": "/galaxylinktransport/static/js/main.ccc2693e.js.map",
+    "453.695fbcd5.chunk.js.map": "/galaxylinktransport/static/js/453.695fbcd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.985055f8.css",
+    "static/js/main.ccc2693e.js"
+  ]
+}
