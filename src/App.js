@@ -5,7 +5,6 @@ import QuoteForm from './QuoteForm';
 
 const DumpTruckWebsite = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
-  const [activeSection, setActiveSection] = useState('home');
   const [isVisible, setIsVisible] = useState({});
 
   useEffect(() => {
@@ -382,22 +381,22 @@ const DumpTruckWebsite = () => {
             <div className="footer-section">
               <h3 className="footer-section-title">Services</h3>
               <ul className="footer-links">
-                <li><a href="#" className="footer-link">Construction Material</a></li>
-                <li><a href="#" className="footer-link">Excavation Support</a></li>
-                <li><a href="#" className="footer-link">Residential Delivery</a></li>
-                <li><a href="#" className="footer-link">Commercial Hauling</a></li>
+                <li><a href="#quote" className="footer-link">Construction Material</a></li>
+                <li><a href="#quote" className="footer-link">Excavation Support</a></li>
+                <li><a href="#quote" className="footer-link">Residential Delivery</a></li>
+                <li><a href="#quote" className="footer-link">Commercial Hauling</a></li>
               </ul>
             </div>
             
             <div className="footer-section">
               <h3 className="footer-section-title">Materials</h3>
               <ul className="footer-links">
-                <li><a href="" className="footer-link">Play Sand & Inch and Half Black granite</a></li>
-                <li><a href="" className="footer-link">River Rock</a></li>
-                <li><a href="" className="footer-link">Half Inch Limestone</a></li>
-                <li><a href="" className="footer-link">Red creek inch and half</a></li>
-                <li><a href="" className="footer-link">Sod and Soil</a></li>
-                <li><a href="" className="footer-link">Mulch & Clean Fill</a></li>
+                <li><a href="#quote" className="footer-link">Play Sand & Inch and Half Black granite</a></li>
+                <li><a href="#quote" className="footer-link">River Rock</a></li>
+                <li><a href="#quote" className="footer-link">Half Inch Limestone</a></li>
+                <li><a href="#quote" className="footer-link">Red creek inch and half</a></li>
+                <li><a href="#quote" className="footer-link">Sod and Soil</a></li>
+                <li><a href="#quote" className="footer-link">Mulch & Clean Fill</a></li>
               </ul>
             </div>
             
